@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Suraj_Yadav](https://leetcode.com/surajgood91400/)
+- HackerRank: [Suraj_Yadav](https://www.hackerrank.com/surajgood91400)
 
 ## Placement Module
 1. [DS I](https://github.com/Suraj-hu/Pre-Placement-Module-2023/tree/main/DS%20I)
